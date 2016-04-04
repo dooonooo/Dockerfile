@@ -1,5 +1,7 @@
-install nginx-mainline on CentOS
-基于 CentOS系统, 编译安装nginx最新版
+# nginx-mainline on centos
+
+## install nginx-mainline on CentOS
+## 基于 CentOS系统, 编译安装nginx最新版
 
 运行容器时，通过VOLUME 映射 nginx的配置文件，网站的根目录
 容器中
