@@ -1,5 +1,5 @@
-FROM dooonooo/centos
-MAINTAINER dooonooo "lidongnet9@gmai.com"
+FROM doooonoooob/centos
+MAINTAINER doooonooob “doooonoooob@gmai.com"
 
 RUN yum -y update \
 && yum -y install gcc pcre-devel zlib-devel make \ 

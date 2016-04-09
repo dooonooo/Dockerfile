@@ -10,5 +10,5 @@ nginx配置文件路径为 `/usr/local/nginx/conf/nginx.conf`
 请运行容器时，通过VOLUME 映射 nginx的 **配置文件** 和 **网站的根目录**
 
 示例：
-`docker run -v /conf/nginx.conf:/usr/local/nginx/conf/nginx.conf -v /www/:/usr/local/nginx/html  -p 80:80 -d dooonooo/nginx`
+`docker run -v /conf/nginx.conf:/usr/local/nginx/conf/nginx.conf -v /www/:/usr/local/nginx/html  -p 80:80 -d doooonoooob/nginx`
 
