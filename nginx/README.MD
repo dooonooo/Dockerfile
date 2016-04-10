@@ -21,3 +21,4 @@ nginx配置文件为 宿主机上的`~/nginx_conf/nginx.conf`
 🙏感谢 屈屈的文章
  <https://imququ.com/post/my-nginx-conf.html>
 
+
